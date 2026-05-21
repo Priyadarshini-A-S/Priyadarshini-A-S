@@ -1,5 +1,12 @@
 [![MasterHead](https://i.postimg.cc/MpPpqymQ/banner.jpg)](https://github.com/Priyadarshini-A-S)
 
+<h2 align="center">
+<a href="https://portfolio-six-rose-68.vercel.app/" target="_blank" style="text-decoration:none;">
+My Portfolio
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="38" width="38"/>
+</a>
+</h2>
+
 <h1 align="center">Hi there 👋 I'm Priyadarshini</h1>
 
 <p align="center">
